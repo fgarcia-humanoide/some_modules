@@ -33,6 +33,7 @@ sudo git clone --branch 7.0 https://github.com/OCA/l10n-spain.git  $OE_HOME/libr
 
 sudo git clone --branch 8.0 https://github.com/OCA/pos.git $OE_HOME/pos
 sudo git clone --branch 8.0 https://github.com/OCA/bank-statement-import.git $OE_HOME/bank-statement-import
+sudo git clone --branch 8.0 https://github.com/ingadhoc/account-invoicing.git $OE_HOME/account_invoicing_ingadhoc
 
 
 echo -e "\n---- Create some links ----"
